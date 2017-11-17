@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/SirisTimer">
+        <file alias="timer">data/image/icon/timer.ico</file>
+    </qresource>
+</RCC>
